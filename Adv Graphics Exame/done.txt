@@ -1,0 +1,26 @@
+Vector3.printf: DONE!
+Versor3.printf: DONE!
+Point3.printf: DONE!
+Versor3.nlerp: DONE!
+Versor3.slerp: DONE!
+Versor3.operator== : DONE!
+
+Quaternion.Q-Constr : DONE!
+Quaternion.Q-Ide : DONE!
+Quaternion.Q-FromPoint : DONE!
+Quaternion.Q-App : DONE!
+Quaternion.Q-Inv a : DONE!
+Quaternion.Q-Conj a : DONE!
+Quaternion.Print : DONE!
+Quaternion.Q-isP : DONE!
+Quaternion.Q-isR : DONE??
+Quaternion.Q-lerp : DONE!
+Quaternion.E2Q : DONE!
+Quaternion.A2Q : DONE!
+Quaternion.Q-ToFrom : DONE!
+
+Axis_angle.A-App : DONE!
+Axis_angle.Q2A : DONE!
+
+Matrix3.Q2M : DONE!
+Matrix3.M-ToFrom : DONE!

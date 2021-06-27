@@ -1,0 +1,135 @@
+﻿  main.cpp
+c1xx : fatal error C1083: Non è possibile aprire il file origine: '..\..\..\..\OneDrive\Desktop\MASTER\advance graphics\esame\main.cpp': No such file or directory
+  transform.cpp
+c1xx : fatal error C1083: Non è possibile aprire il file origine: '..\..\..\..\OneDrive\Desktop\MASTER\advance graphics\esame\transform.cpp': No such file or directory
+  matrix3.cpp
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\vector3.h(101,9): error C2065: 'cout': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\vector3.h(101,38): error C2065: 'endl': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\vector3.h(123,17): error C3861: 'squaredMagnitude': identificatore non trovato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\vector3.h(139,16): error C2064: il termine non restituisce una funzione che accetta 3 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\point3.h(70,14): error C2039: 'cout': non è un membro di 'std'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\predefined C++ types (compiler internal)(339): message : vedere la dichiarazione di 'std'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\point3.h(70,1): error C2065: 'cout': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\point3.h(70,46): error C2039: 'endl': non è un membro di 'std'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\predefined C++ types (compiler internal)(339): message : vedere la dichiarazione di 'std'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\point3.h(70,1): error C2065: 'endl': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\versor3.h(62,14): error C2039: 'cout': non è un membro di 'std'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\predefined C++ types (compiler internal)(339): message : vedere la dichiarazione di 'std'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\versor3.h(62,1): error C2065: 'cout': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\versor3.h(62,47): error C2039: 'endl': non è un membro di 'std'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\predefined C++ types (compiler internal)(339): message : vedere la dichiarazione di 'std'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\versor3.h(62,1): error C2065: 'endl': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\versor3.h(90,66): error C2440: 'return': impossibile convertire da 'Versor3' a 'Vector3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\versor3.h(90,56): message : Non è disponibile alcun operatore di conversione definito dall'utente oppure non è possibile chiamare l'operatore
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(47,38): error C2039: 't': non è un membro di 'Vector3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\vector3.h(12): message : vedere la dichiarazione di 'Vector3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,15): error C2039: 'x': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,21): error C2065: 'x': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,29): error C2039: 'y': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,35): error C2065: 'x': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,43): error C2039: 'z': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,49): error C2065: 'x': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,56): error C2039: 'x': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,62): error C2065: 'y': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,70): error C2039: 'y': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,76): error C2065: 'y': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,84): error C2039: 'z': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,90): error C2065: 'y': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,97): error C2039: 'x': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,103): error C2065: 'z': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,111): error C2039: 'y': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,117): error C2065: 'z': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,125): error C2039: 'z': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(63,131): error C2065: 'z': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,15): error C2039: 'x': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,21): error C2065: 'x': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,29): error C2039: 'y': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,35): error C2065: 'x': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,43): error C2039: 'z': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,49): error C2065: 'x': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,56): error C2039: 'x': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,62): error C2065: 'y': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,70): error C2039: 'y': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,76): error C2065: 'y': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,84): error C2039: 'z': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,90): error C2065: 'y': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,97): error C2039: 'x': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,103): error C2065: 'z': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,111): error C2039: 'y': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,117): error C2065: 'z': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,125): error C2039: 'z': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(64,131): error C2065: 'z': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,15): error C2039: 'x': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,21): error C2065: 'x': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,29): error C2039: 'y': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,35): error C2065: 'x': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,43): error C2039: 'z': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,49): error C2065: 'x': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,56): error C2039: 'x': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,62): error C2065: 'y': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,70): error C2039: 'y': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,76): error C2065: 'y': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,84): error C2039: 'z': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,90): error C2065: 'y': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,97): error C2039: 'x': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,103): error C2065: 'z': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,111): error C2039: 'y': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,117): error C2065: 'z': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,125): error C2039: 'z': non è un membro di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(16): message : vedere la dichiarazione di 'Matrix3'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(65,131): error C2065: 'z': identificatore non dichiarato
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(95,86): error C2143: errore di sintassi: ')' mancante prima di ';'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(96,1): error C2059: errore di sintassi: ')'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(137,17): error C2027: utilizzo di tipo non definito 'Quaternion'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(12): message : vedere la dichiarazione di 'Quaternion'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(138,17): error C2027: utilizzo di tipo non definito 'Quaternion'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(12): message : vedere la dichiarazione di 'Quaternion'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(139,17): error C2027: utilizzo di tipo non definito 'Quaternion'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(12): message : vedere la dichiarazione di 'Quaternion'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(140,17): error C2027: utilizzo di tipo non definito 'Quaternion'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(12): message : vedere la dichiarazione di 'Quaternion'
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(143,13): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(143,24): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(143,34): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(143,45): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(143,55): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(143,66): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(144,9): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(144,20): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(144,34): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(144,45): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(144,55): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(144,66): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(145,9): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(145,20): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(145,30): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(145,41): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(145,55): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+C:\Users\dolla\source\repos\Adv Graphics Exame\Adv Graphics Exame\matrix3.h(145,66): error C2064: il termine non restituisce una funzione che accetta 1 argomenti
+  Generazione del codice in corso...
